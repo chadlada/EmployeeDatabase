@@ -20,16 +20,16 @@ namespace EmployeeDatabase
             public int Salary { get; set; }
             public int MonthlySalary { get; set; }
 
-           
-           
-            
-            
-            
-            
 
 
-                    
-            
+
+            OEOPSOPOPOW
+
+
+
+
+
+
 
 
 
@@ -105,7 +105,7 @@ namespace EmployeeDatabase
             DisplayGreeting();
 
             var name = PromptForString("What is your name? ");
- 
+
             int department = PromptForInteger("What is your department number? ");
 
             int salary = PromptForInteger("What is your yearly salary (in dollars)? ");
